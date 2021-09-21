@@ -56,5 +56,11 @@ Github https://docs.github.com/en/github/searching-for-information-on-github/sea
 
 Shodan https://help.shodan.io/the-basics/search-query-fundamentals</br>
 Censys https://censys.io/ipv4/help/examples?q=&</br>
-https://fofa.so/ (click the button below search field)</br>
+FOFA https://fofa.so/ (click the button below search field)</br>
+
+------------------------------------
+
+Dork collections lists
+
+https://github.com/cipher387/Dorks-collections-list
 
