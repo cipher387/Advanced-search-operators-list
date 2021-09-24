@@ -5,6 +5,7 @@ Google https://support.google.com/mail/answer/7190?hl=en</br>
 Yahoo https://www.lifewire.com/search-messages-yahoo-1174487</br>
 Outlook https://support.microsoft.com/en-us/office/learn-to-narrow-your-search-criteria-for-better-searches-in-outlook-d824d1e9-a255-4c8a-8553-276fb895a8da</br>
 Yandex https://yandex.ru/support/mail/web/letter/query-language.html</br>
+Mailbird https://support.getmailbird.com/hc/en-us/articles/360042425014-Advanced-Search-queries-and-UI</br>
 
 
 <h3>Search operators for file storages</h3>
