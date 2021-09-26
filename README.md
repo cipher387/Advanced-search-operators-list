@@ -33,6 +33,8 @@ Bing https://seosly.com/bing-search-operators/#:~:text=Bing%20search%20operators
 Baidu http://www.baiduguide.com/baidu-seo-guide/baidu-search-operators/</br>
 Ask https://askhelp.extension.org/advanced-search-options/</br>
 Naver http://seoseminkorea.blogspot.com/2015/03/naver-seo-naver-advanced-operators-list-2015.html
+AOL https://help.aol.co.uk/articles/Advanced-Search
+
 
 
 
@@ -63,6 +65,9 @@ FOFA https://fofa.so/ (click the button below search field)</br>
 <h3>Marketplaces</h3>
 
 Alibaba Cloud https://www.alibabacloud.com/help/doc-detail/29060.htm
+
+<h3>Maps</h3>
+Mapy.cz https://napoveda.seznam.cz/en/advanced-search-and-gps-coordinates/
 
 ------------------------------------
 
