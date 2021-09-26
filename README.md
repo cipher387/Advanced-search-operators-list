@@ -27,14 +27,11 @@ Linux (find command cheat sheet) https://devhints.io/find</br>
 
 
 Google https://www.indeed.com/career-advice/finding-a-job/google-search-operators#:~:text=Google%20Search%20operators%20are%20combinations,Punctuation%20such%20as%20quotation%20marks</br>
-
 Yandex (also works with Yandex Images Search) https://seosly.com/yandex-search-operators/</br>
-
 DuckDuckGo https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/</br>
-
 Bing https://seosly.com/bing-search-operators/#:~:text=Bing%20search%20operators%20are%20special,your%20online%20life%20way%20easier</br>
-
 Baidu http://www.baiduguide.com/baidu-seo-guide/baidu-search-operators/</br>
+Ask https://askhelp.extension.org/advanced-search-options/
 
 
 
