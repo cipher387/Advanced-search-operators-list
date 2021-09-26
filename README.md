@@ -31,7 +31,8 @@ Yandex (also works with Yandex Images Search) https://seosly.com/yandex-search-o
 DuckDuckGo https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/</br>
 Bing https://seosly.com/bing-search-operators/#:~:text=Bing%20search%20operators%20are%20special,your%20online%20life%20way%20easier</br>
 Baidu http://www.baiduguide.com/baidu-seo-guide/baidu-search-operators/</br>
-Ask https://askhelp.extension.org/advanced-search-options/
+Ask https://askhelp.extension.org/advanced-search-options/</br>
+Naver http://seoseminkorea.blogspot.com/2015/03/naver-seo-naver-advanced-operators-list-2015.html
 
 
 
