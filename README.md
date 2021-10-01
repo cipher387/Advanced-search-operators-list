@@ -46,6 +46,11 @@ YouTube https://seosly.com/youtube-search-operators/</br>
 Reddit https://www.reddit.com/wiki/search/</br>
 
 
+<h3>Content analysis</h3>
+
+BuzzSumo http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advanced-search-operators
+
+
 <h3>Professionals communities</h3>
 
 
