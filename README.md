@@ -57,6 +57,12 @@ BuzzSumo http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advan
 Linkedin https://booleanstrings.com/linkedin-search-operators/</br>
 Github https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code</br>
 
+<h3>Productivity and project management</h3>
+Trello https://help.trello.com/article/808-searching-for-cards-all-boards</br>
+Slack https://slack.com/intl/ru-ru/blog/productivity/shrinking-the-haystack-how-to-narrow-search-results-in-slack</br>
+Evernote https://help.evernote.com/hc/en-us/articles/208313828-Use-advanced-search-syntax</br>
+Jira https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-operators/</br>
+Todoist https://todoist.com/en/help/articles/introduction-to-filters https://blog.doist.com/todoist-filters/</br>
 
 
 <h3>IOT search engines</h3>
