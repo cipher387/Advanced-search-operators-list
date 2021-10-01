@@ -57,6 +57,9 @@ BuzzSumo http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advan
 Linkedin https://booleanstrings.com/linkedin-search-operators/</br>
 Github https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code</br>
 
+<h3>Code</h3>
+Github Gist https://gist.github.com/santisbon/2e1e9c69b58bdf4c9624219a44d40d83
+
 <h3>Productivity and project management</h3>
 Trello https://help.trello.com/article/808-searching-for-cards-all-boards</br>
 Slack https://slack.com/intl/ru-ru/blog/productivity/shrinking-the-haystack-how-to-narrow-search-results-in-slack</br>
