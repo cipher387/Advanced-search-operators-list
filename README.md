@@ -51,6 +51,7 @@ YouTube https://seosly.com/youtube-search-operators/</br>
 Reddit https://www.reddit.com/wiki/search/</br>
 
 
+
 <h3>Content analysis</h3>
 
 BuzzSumo http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advanced-search-operators</br>
@@ -76,6 +77,8 @@ Slack https://slack.com/intl/ru-ru/blog/productivity/shrinking-the-haystack-how-
 Evernote https://help.evernote.com/hc/en-us/articles/208313828-Use-advanced-search-syntax</br>
 Jira https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-operators/</br>
 Todoist https://todoist.com/en/help/articles/introduction-to-filters https://blog.doist.com/todoist-filters/</br>
+Shortcut https://help.shortcut.com/hc/en-us/articles/360000046646-Searching-in-Shortcut-Using-Search-Operators</br>
+
 
 
 <h3>IOT search engines</h3>
@@ -96,6 +99,23 @@ Arcgis https://enterprise.arcgis.com/en/portal/latest/use/advanced-search.htm
 
 <h3>Images</h3>
 Pics.io https://help.pics.io/en/articles/1811657-advanced-search
+
+<h3>Libraries</h3>
+
+PubMed https://library-guides.ucl.ac.uk/pubmed/advanced-search
+
+<h3>Customer support</h3>
+
+ZenDesk https://support.zendesk.com/hc/en-us/articles/203663226
+
+<h3>News/RSS</h3>
+
+Feedly https://feedly.helpscoutdocs.com/article/82-what-are-the-advanced-search-operators
+
+
+<h3>Databases</h3>
+
+Aleph https://docs.alephdata.org/guide/search/advanced-search-methods
 
 ------------------------------------
 
