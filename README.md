@@ -1,4 +1,4 @@
-<h3>Mailboxes</h3>
+<h1>Mailboxes</h1>
 
 
 Google https://support.google.com/mail/answer/7190?hl=en</br>
@@ -13,13 +13,13 @@ Protonmail https://protonmail.com/support/knowledge-base/search/</br>
 
 
 
-<h3>Cloud storages</h3>
+<h1>Cloud storages</h1>
 
 
 Google Drive https://support.google.com/vault/answer/2474474?hl=en</br>
 
 
-<h3>Operation systems</h3>
+<h1>Operation systems</h1>
 
 
 MacOS https://support.apple.com/guide/mac-help/narrow-search-results-mh15155/mac</br>
@@ -43,7 +43,7 @@ AOL https://help.aol.co.uk/articles/Advanced-Search</br>
 
 
 
-<h3>Social media</h3>
+<h1>Social media</h1>
 
 
 Twitter https://www.tweetbinder.com/blog/twitter-advanced-search/</br>
@@ -57,21 +57,21 @@ Reddit https://www.reddit.com/wiki/search/</br>
 BuzzSumo http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advanced-search-operators</br>
 
 
-<h3>Professionals communities</h3>
+<h1>Professionals communities</h1>
 
 
 Linkedin https://booleanstrings.com/linkedin-search-operators/</br>
 Github https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code</br>
 
 
-<h3>Job searching</h3>
+<h1>Job searching</h1>
 
 Stack Overflow Jobs https://stackoverflow.com/help/advanced-search-parameters-jobs</br>
 
 <h3>Code</h3>
 Github Gist https://gist.github.com/santisbon/2e1e9c69b58bdf4c9624219a44d40d83
 
-<h3>Productivity and project management</h3>
+<h1>Productivity and project management</h1>
 Trello https://help.trello.com/article/808-searching-for-cards-all-boards</br>
 Slack https://slack.com/intl/ru-ru/blog/productivity/shrinking-the-haystack-how-to-narrow-search-results-in-slack</br>
 Evernote https://help.evernote.com/hc/en-us/articles/208313828-Use-advanced-search-syntax</br>
@@ -81,7 +81,7 @@ Shortcut https://help.shortcut.com/hc/en-us/articles/360000046646-Searching-in-S
 
 
 
-<h3>IOT search engines</h3>
+<h1>IOT search engines</h1>
 
 
 Shodan https://help.shodan.io/the-basics/search-query-fundamentals</br>
@@ -89,31 +89,31 @@ Censys https://censys.io/ipv4/help/examples?q=&</br>
 FOFA https://fofa.so/ (click the button below search field)</br>
 
 
-<h3>Marketplaces</h3>
+<h1>Marketplaces</h1>
 
 Alibaba Cloud https://www.alibabacloud.com/help/doc-detail/29060.htm
 
-<h3>Maps</h3>
+<h1>Maps</h1>
 Mapy.cz https://napoveda.seznam.cz/en/advanced-search-and-gps-coordinates/</br>
 Arcgis https://enterprise.arcgis.com/en/portal/latest/use/advanced-search.htm
 
-<h3>Images</h3>
+<h1>Images</h1>
 Pics.io https://help.pics.io/en/articles/1811657-advanced-search
 
-<h3>Libraries</h3>
+<h1>Libraries</h1>
 
 PubMed https://library-guides.ucl.ac.uk/pubmed/advanced-search
 
-<h3>Customer support</h3>
+<h1>Customer support</h1>
 
 ZenDesk https://support.zendesk.com/hc/en-us/articles/203663226
 
-<h3>News/RSS</h3>
+<h1>News/RSS</h1>
 
 Feedly https://feedly.helpscoutdocs.com/article/82-what-are-the-advanced-search-operators
 
 
-<h3>Databases</h3>
+<h1>Databases</h1>
 
 Aleph https://docs.alephdata.org/guide/search/advanced-search-methods
 
