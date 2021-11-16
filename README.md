@@ -61,7 +61,11 @@ BuzzSumo http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advan
 
 
 Linkedin https://booleanstrings.com/linkedin-search-operators/</br>
+
+<h1>Coding</h1>
 Github https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code</br>
+Gitlab https://docs.gitlab.com/ee/user/search/advanced_search.html </br>
+Bitbucket https://confluence.atlassian.com/bitbucketserver/bitbucket-search-syntax-814204781.html </br>
 
 
 <h1>Job searching</h1>
