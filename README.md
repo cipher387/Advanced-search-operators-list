@@ -1,7 +1,7 @@
-<h1>Mailboxes</h1>
+<h1>Mailboxes and Messengers</h1>
 
 
-Google https://support.google.com/mail/answer/7190?hl=en</br>
+Gmail https://support.google.com/mail/answer/7190?hl=en</br>
 Yahoo https://www.lifewire.com/search-messages-yahoo-1174487</br>
 Outlook https://support.microsoft.com/en-us/office/learn-to-narrow-your-search-criteria-for-better-searches-in-outlook-d824d1e9-a255-4c8a-8553-276fb895a8da</br>
 Yandex https://yandex.ru/support/mail/web/letter/query-language.html</br>
@@ -10,6 +10,8 @@ Mail (Mac OS) https://support.apple.com/en-au/guide/mail/mlhlp1003/mac</br>
 Front https://help.front.com/t/632499/how-to-search-in-front</br>
 Postbox https://support.postbox-inc.com/hc/en-us/articles/202200180</br>
 Protonmail https://protonmail.com/support/knowledge-base/search/</br>
+Google Workspace (Hangouts, Groups, Chat, Voice) https://support.google.com/vault/answer/2474474?hl=en#zippy=%2Cgoogle-voice-search-operators%2Cgoogle-chat-search-operators </br>
+
 
 
 
