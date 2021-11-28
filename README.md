@@ -33,7 +33,7 @@ Linux (find command cheat sheet) https://devhints.io/find</br>
 <h3>Search engines</h3>
 
 
-Google https://www.indeed.com/career-advice/finding-a-job/google-search-operators#:~:text=Google%20Search%20operators%20are%20combinations,Punctuation%20such%20as%20quotation%20marks</br>
+Google https://ahrefs.com/blog/google-advanced-search-operators/</br>
 Yandex (also works with Yandex Images Search) https://seosly.com/yandex-search-operators/</br>
 DuckDuckGo https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/</br>
 Bing https://seosly.com/bing-search-operators/#:~:text=Bing%20search%20operators%20are%20special,your%20online%20life%20way%20easier</br>
