@@ -36,6 +36,7 @@ Linux (find command cheat sheet) https://devhints.io/find</br>
 Google https://ahrefs.com/blog/google-advanced-search-operators/</br>
 Yandex (also works with Yandex Images Search) https://seosly.com/yandex-search-operators/</br>
 DuckDuckGo https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/</br>
+The most complete <b>DuckDuckGo</b> !bangs collection I know ! https://mosermichael.github.io/duckduckbang/html/main.html</br>
 Bing https://seosly.com/bing-search-operators/#:~:text=Bing%20search%20operators%20are%20special,your%20online%20life%20way%20easier</br>
 Baidu http://www.baiduguide.com/baidu-seo-guide/baidu-search-operators/</br>
 Ask https://askhelp.extension.org/advanced-search-options/</br>
