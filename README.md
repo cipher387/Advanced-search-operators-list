@@ -27,101 +27,120 @@
 
 <h1>Operation systems</h1>
 
-
-MacOS https://support.apple.com/guide/mac-help/narrow-search-results-mh15155/mac</br>
-Windows https://thegeekpage.com/windows-10-advance-search-tricks-cheatsheet/#Search_by_File_extension</br>
-
-Linux (find command cheat sheet) https://devhints.io/find</br>
+| OS          | Link          | 
+|------------------|-------------------------|
+| MacOS | https://support.apple.com/guide/mac-help/narrow-search-results-mh15155/mac |
+| Windows| https://thegeekpage.com/windows-10-advance-search-tricks-cheatsheet/#Search_by_File_extension |
+| Linux (find command cheat sheet)| https://devhints.io/find |
 
 
 <h3>Search engines</h3>
-
-
-Google https://ahrefs.com/blog/google-advanced-search-operators/</br>
-Yandex (also works with Yandex Images Search) https://seosly.com/yandex-search-operators/</br>
-DuckDuckGo https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/</br>
-The most complete <b>DuckDuckGo</b> !bangs collection I know ! https://mosermichael.github.io/duckduckbang/html/main.html</br>
-Bing https://seosly.com/bing-search-operators/#:~:text=Bing%20search%20operators%20are%20special,your%20online%20life%20way%20easier</br>
-Baidu http://www.baiduguide.com/baidu-seo-guide/baidu-search-operators/</br>
-Ask https://askhelp.extension.org/advanced-search-options/</br>
-Naver http://seoseminkorea.blogspot.com/2015/03/naver-seo-naver-advanced-operators-list-2015.html</br>
-AOL https://help.aol.co.uk/articles/Advanced-Search</br>
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| Google | https://ahrefs.com/blog/google-advanced-search-operators/ | 
+| Yandex (also works with Yandex Images Search)| https://seosly.com/yandex-search-operators/ | 
+| DuckDuckGo | https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/ | 
+| The most complete <b>DuckDuckGo</b> !bangs collection I know ! | https://mosermichael.github.io/duckduckbang/html/main.html | 
+| Bing | https://seosly.com/bing-search-operators/#:~:text=Bing%20search%20operators%20are%20special,your%20online%20life%20way%20easier | 
+| Baidu | http://www.baiduguide.com/baidu-seo-guide/baidu-search-operators/ | 
+| Ask | https://askhelp.extension.org/advanced-search-options/ | 
+| Naver | http://seoseminkorea.blogspot.com/2015/03/naver-seo-naver-advanced-operators-list-2015.html | 
+| AOL | https://help.aol.co.uk/articles/Advanced-Search | 
 
 
 
 
 <h1>Social media</h1>
-
-
-Twitter https://www.tweetbinder.com/blog/twitter-advanced-search/</br>
-YouTube https://seosly.com/youtube-search-operators/</br>
-Reddit https://www.reddit.com/wiki/search/</br>
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| Twitter | https://www.tweetbinder.com/blog/twitter-advanced-search/ |
+| YouTube | https://seosly.com/youtube-search-operators/|
+| Reddit| https://www.reddit.com/wiki/search/|
 
 
 
 <h3>Content analysis</h3>
-
-BuzzSumo http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advanced-search-operators</br>
+| Website/application          | Link          | 
+|------------------|-------------------------|
+|BuzzSumo | http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advanced-search-operators |
 
 
 <h1>Professionals communities</h1>
 
-
-Linkedin https://booleanstrings.com/linkedin-search-operators/</br>
+| Website/application          | Link          | 
+|------------------|-------------------------|
+|Linkedin| https://booleanstrings.com/linkedin-search-operators/ |
 
 <h1>Coding</h1>
-Github https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code</br>
-Gitlab https://docs.gitlab.com/ee/user/search/advanced_search.html </br>
-Bitbucket https://confluence.atlassian.com/bitbucketserver/bitbucket-search-syntax-814204781.html </br>
+| Website/application          | Link          | 
+|------------------|-------------------------|
+|Github | https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code |
+|Gitlab| https://docs.gitlab.com/ee/user/search/advanced_search.html |
+|Bitbucket |https://confluence.atlassian.com/bitbucketserver/bitbucket-search-syntax-814204781.html |
 
 
 <h1>Job searching</h1>
+| Website/application          | Link          | 
+|------------------|-------------------------|
 
-Stack Overflow Jobs https://stackoverflow.com/help/advanced-search-parameters-jobs</br>
+|Stack Overflow Jobs| https://stackoverflow.com/help/advanced-search-parameters-jobs|
 
 <h3>Code</h3>
-Github Gist https://gist.github.com/santisbon/2e1e9c69b58bdf4c9624219a44d40d83
+| Website/application          | Link          | 
+|------------------|-------------------------|
+|Github Gist| https://gist.github.com/santisbon/2e1e9c69b58bdf4c9624219a44d40d83|
 
 <h1>Productivity and project management</h1>
-Trello https://help.trello.com/article/808-searching-for-cards-all-boards</br>
-Slack https://slack.com/intl/ru-ru/blog/productivity/shrinking-the-haystack-how-to-narrow-search-results-in-slack</br>
-Evernote https://help.evernote.com/hc/en-us/articles/208313828-Use-advanced-search-syntax</br>
-Jira https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-operators/</br>
-Todoist https://todoist.com/en/help/articles/introduction-to-filters https://blog.doist.com/todoist-filters/</br>
-Shortcut https://help.shortcut.com/hc/en-us/articles/360000046646-Searching-in-Shortcut-Using-Search-Operators</br>
+| Website/application          | Link          | 
+|------------------|-------------------------|
+|Trello| https://help.trello.com/article/808-searching-for-cards-all-boards|
+|Slack| https://slack.com/intl/ru-ru/blog/productivity/shrinking-the-haystack-how-to-narrow-search-results-in-slack|
+|Evernote| https://help.evernote.com/hc/en-us/articles/208313828-Use-advanced-search-syntax|
+|Jira| https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-operators/|
+|Todoist| https://todoist.com/en/help/articles/introduction-to-filters https://blog.doist.com/todoist-filters/|
+|Shortcut| https://help.shortcut.com/hc/en-us/articles/360000046646-Searching-in-Shortcut-Using-Search-Operators|
 
 
 
 <h1>IOT search engines</h1>
 
-
-Shodan https://help.shodan.io/the-basics/search-query-fundamentals</br>
-Censys https://censys.io/ipv4/help/examples?q=&</br>
-FOFA https://fofa.so/ (click the button below search field)</br>
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| Shodan | https://help.shodan.io/the-basics/search-query-fundamentals |
+| Censys | https://censys.io/ipv4/help/examples?q=& |
+| FOFA | https://fofa.so/ (click the button below search field)|
 
 
 <h1>Marketplaces</h1>
-
-Alibaba Cloud https://www.alibabacloud.com/help/doc-detail/29060.htm
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| Alibaba Cloud | https://www.alibabacloud.com/help/doc-detail/29060.htm |
 
 <h1>Maps</h1>
-Mapy.cz https://napoveda.seznam.cz/en/advanced-search-and-gps-coordinates/</br>
-Arcgis https://enterprise.arcgis.com/en/portal/latest/use/advanced-search.htm
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| Mapy.cz | https://napoveda.seznam.cz/en/advanced-search-and-gps-coordinates/ |
+| Arcgis | https://enterprise.arcgis.com/en/portal/latest/use/advanced-search.htm |
 
 <h1>Images</h1>
-Pics.io https://help.pics.io/en/articles/1811657-advanced-search
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| Pics.io |https://help.pics.io/en/articles/1811657-advanced-search |
 
 <h1>Libraries</h1>
-
-PubMed https://library-guides.ucl.ac.uk/pubmed/advanced-search
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| PubMed | https://library-guides.ucl.ac.uk/pubmed/advanced-search |
 
 <h1>Customer support</h1>
-
-ZenDesk https://support.zendesk.com/hc/en-us/articles/203663226
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| ZenDesk | https://support.zendesk.com/hc/en-us/articles/203663226|
 
 <h1>News/RSS</h1>
-
-Feedly https://feedly.helpscoutdocs.com/article/82-what-are-the-advanced-search-operators
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| Feedly | https://feedly.helpscoutdocs.com/article/82-what-are-the-advanced-search-operators |
 
 
 <h1>Databases</h1>
