@@ -51,7 +51,7 @@
 
 
 <h1>Social media</h1>
-| Website/application          | Link          | 
+| Website/application          | Link        | 
 |------------------|-------------------------|
 | Twitter | https://www.tweetbinder.com/blog/twitter-advanced-search/ |
 | YouTube | https://seosly.com/youtube-search-operators/|
@@ -60,7 +60,7 @@
 
 
 <h3>Content analysis</h3>
-| Website/application          | Link          | 
+| Website/application          | Link        | 
 |------------------|-------------------------|
 |BuzzSumo | http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advanced-search-operators |
 
@@ -133,19 +133,20 @@
 | PubMed | https://library-guides.ucl.ac.uk/pubmed/advanced-search |
 
 <h1>Customer support</h1>
-| Website/application          | Link          | 
+| Website/application          | Link        | 
 |------------------|-------------------------|
-| ZenDesk | https://support.zendesk.com/hc/en-us/articles/203663226|
+| ZenDesk | https://support.zendesk.com/hc/en-us/articles/203663226 |
 
 <h1>News/RSS</h1>
-| Website/application          | Link          | 
+| Website/application          | Link        | 
 |------------------|-------------------------|
 | Feedly | https://feedly.helpscoutdocs.com/article/82-what-are-the-advanced-search-operators |
 
 
 <h1>Databases</h1>
-
-Aleph https://docs.alephdata.org/guide/search/advanced-search-methods
+| Website/application          | Link        | 
+|------------------|-------------------------|
+| Aleph |  https://docs.alephdata.org/guide/search/advanced-search-methods | 
 
 ------------------------------------
 
