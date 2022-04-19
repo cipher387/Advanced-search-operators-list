@@ -35,7 +35,8 @@
 
 
 <h3>Search engines</h3>
-| Website/application          | Link          | 
+
+| Website/application          | Link        | 
 |------------------|-------------------------|
 | Google | https://ahrefs.com/blog/google-advanced-search-operators/ | 
 | Yandex (also works with Yandex Images Search)| https://seosly.com/yandex-search-operators/ | 
@@ -51,6 +52,7 @@
 
 
 <h1>Social media</h1>
+
 | Website/application          | Link        | 
 |------------------|-------------------------|
 | Twitter | https://www.tweetbinder.com/blog/twitter-advanced-search/ |
@@ -60,6 +62,7 @@
 
 
 <h3>Content analysis</h3>
+
 | Website/application          | Link        | 
 |------------------|-------------------------|
 |BuzzSumo | http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advanced-search-operators |
@@ -72,6 +75,7 @@
 |Linkedin| https://booleanstrings.com/linkedin-search-operators/ |
 
 <h1>Coding</h1>
+
 | Website/application          | Link          | 
 |------------------|-------------------------|
 |Github | https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code |
@@ -80,25 +84,28 @@
 
 
 <h1>Job searching</h1>
+
 | Website/application          | Link          | 
 |------------------|-------------------------|
 
 |Stack Overflow Jobs| https://stackoverflow.com/help/advanced-search-parameters-jobs|
 
 <h3>Code</h3>
+
 | Website/application          | Link          | 
 |------------------|-------------------------|
 |Github Gist| https://gist.github.com/santisbon/2e1e9c69b58bdf4c9624219a44d40d83|
 
 <h1>Productivity and project management</h1>
+
 | Website/application          | Link          | 
 |------------------|-------------------------|
 |Trello| https://help.trello.com/article/808-searching-for-cards-all-boards|
-|Slack| https://slack.com/intl/ru-ru/blog/productivity/shrinking-the-haystack-how-to-narrow-search-results-in-slack|
+|Slack | https://slack.com/intl/ru-ru/blog/productivity/shrinking-the-haystack-how-to-narrow-search-results-in-slack|
 |Evernote| https://help.evernote.com/hc/en-us/articles/208313828-Use-advanced-search-syntax|
-|Jira| https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-operators/|
-|Todoist| https://todoist.com/en/help/articles/introduction-to-filters https://blog.doist.com/todoist-filters/|
-|Shortcut| https://help.shortcut.com/hc/en-us/articles/360000046646-Searching-in-Shortcut-Using-Search-Operators|
+|Jira | https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-operators/|
+|Todoist | https://todoist.com/en/help/articles/introduction-to-filters https://blog.doist.com/todoist-filters/|
+|Shortcut | https://help.shortcut.com/hc/en-us/articles/360000046646-Searching-in-Shortcut-Using-Search-Operators|
 
 
 
@@ -112,38 +119,45 @@
 
 
 <h1>Marketplaces</h1>
+
 | Website/application          | Link          | 
 |------------------|-------------------------|
 | Alibaba Cloud | https://www.alibabacloud.com/help/doc-detail/29060.htm |
 
 <h1>Maps</h1>
+
 | Website/application          | Link          | 
 |------------------|-------------------------|
 | Mapy.cz | https://napoveda.seznam.cz/en/advanced-search-and-gps-coordinates/ |
 | Arcgis | https://enterprise.arcgis.com/en/portal/latest/use/advanced-search.htm |
 
 <h1>Images</h1>
+
 | Website/application          | Link          | 
 |------------------|-------------------------|
 | Pics.io |https://help.pics.io/en/articles/1811657-advanced-search |
 
 <h1>Libraries</h1>
+
 | Website/application          | Link          | 
 |------------------|-------------------------|
 | PubMed | https://library-guides.ucl.ac.uk/pubmed/advanced-search |
 
 <h1>Customer support</h1>
+
 | Website/application          | Link        | 
 |------------------|-------------------------|
 | ZenDesk | https://support.zendesk.com/hc/en-us/articles/203663226 |
 
 <h1>News/RSS</h1>
+
 | Website/application          | Link        | 
 |------------------|-------------------------|
 | Feedly | https://feedly.helpscoutdocs.com/article/82-what-are-the-advanced-search-operators |
 
 
 <h1>Databases</h1>
+
 | Website/application          | Link        | 
 |------------------|-------------------------|
 | Aleph |  https://docs.alephdata.org/guide/search/advanced-search-methods | 
