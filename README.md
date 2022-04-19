@@ -30,8 +30,8 @@
 | OS          | Link          | 
 |------------------|-------------------------|
 | MacOS | https://support.apple.com/guide/mac-help/narrow-search-results-mh15155/mac |
-| Windows| https://thegeekpage.com/windows-10-advance-search-tricks-cheatsheet/#Search_by_File_extension |
-| Linux (find command cheat sheet)| https://devhints.io/find |
+| Windows | https://thegeekpage.com/windows-10-advance-search-tricks-cheatsheet/#Search_by_File_extension |
+| Linux (find command cheat sheet) | https://devhints.io/find |
 
 
 <h3>Search engines</h3>
