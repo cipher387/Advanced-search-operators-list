@@ -38,7 +38,7 @@
 
 | Website/application          | Link        | 
 |------------------|-------------------------|
-| Google | https://ahrefs.com/blog/google-advanced-search-operators/ | 
+| Google | https://ahrefs.com/blog/google-advanced-search-operators/ </br> https://booleanstrings.com/2020/05/01/the-full-list-of-google-operators-2020/ | 
 | Yandex (also works with Yandex Images Search)| https://seosly.com/yandex-search-operators/ | 
 | DuckDuckGo | https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/ | 
 | The most complete <b>DuckDuckGo</b> !bangs collection I know ! | https://mosermichael.github.io/duckduckbang/html/main.html | 
