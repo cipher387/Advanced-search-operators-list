@@ -14,10 +14,10 @@
 <a href="#marketplaces">Marketplaces</a></br>
 <a href="#maps">Maps</a></br>
 <a href="#images">Images</a></br>
-<a href="#news">News/RSS</a></br>
 <a href="#libraries">Libraries</a></br>
 <a href="#customersupport">Customer Support</a></br>
-<a href="#databases">Customer Support</a></br>
+<a href="#news">News/RSS</a></br>
+<a href="#databases">Databases</a></br>
 
 <a name="mailboxes"></a>
 <h1>Mailboxes and Messengers</h1>
@@ -103,7 +103,6 @@
 
 | Website/application          | Link          | 
 |------------------|-------------------------|
-
 |Stack Overflow Jobs| https://stackoverflow.com/help/advanced-search-parameters-jobs|
 
 <a name="productivity"></a>
