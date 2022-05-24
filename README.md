@@ -185,3 +185,18 @@ Dork collections lists
 
 https://github.com/cipher387/Dorks-collections-list
 
+
+
+
+ <hr>
+
+Twitter — https://twitter.com/cyb_detective
+
+Telegram — https://t.me/cybdetective
+
+Revue — https://www.getrevue.co/profile/cyb_detective
+
+Github — https://github.com/cipher387
+
+<hr>
+
