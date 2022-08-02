@@ -197,12 +197,6 @@
 
 ------------------------------------
 
-Dork collections lists
-
-https://github.com/cipher387/Dorks-collections-list
-
-
-
 
  <hr>
 
