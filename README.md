@@ -25,6 +25,7 @@
 <a href="#coding">Coding</a></br>
 <a href="#jobs">Jobs Searching</a></br>
 <a href="#productivity">Productivity and project management</a></br>
+<a href="#passwordmanagers">Password managers</a></br>
 <a href="#iotsearch">IOT Search Engines</a></br>
 <a href="#marketplaces">Marketplaces</a></br>
 <a href="#maps">Maps</a></br>
@@ -131,6 +132,16 @@
 |Jira | https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-operators/|
 |Todoist | https://todoist.com/en/help/articles/introduction-to-filters https://blog.doist.com/todoist-filters/|
 |Shortcut | https://help.shortcut.com/hc/en-us/articles/360000046646-Searching-in-Shortcut-Using-Search-Operators|
+
+<a name="passwordmanagers"></a>
+<h1>Password managers</h1>
+
+| Website/application          | Link          | 
+|------------------|-------------------------|
+| TeamPasswordManager | https://teampasswordmanager.com/docs/advanced-search/ |
+
+
+
 
 
 <a name="iotsearch"></a>
