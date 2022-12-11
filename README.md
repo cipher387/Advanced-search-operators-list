@@ -14,6 +14,9 @@
 
 </div>
 
+
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+
 <h1>Table of contents</h1>
 
 <a href="#mailboxes">Mailboxes and Messengers</a></br>
@@ -210,11 +213,6 @@
 
  <hr>
 
-Twitter — https://twitter.com/cyb_detective
 
-Telegram — https://t.me/cybdetective
-
-Github — https://github.com/cipher387
-
-<hr>
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 
