@@ -98,7 +98,8 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 | Twitter | https://www.tweetbinder.com/blog/twitter-advanced-search/ |
 | YouTube | https://seosly.com/youtube-search-operators/|
 | Reddit| https://www.reddit.com/wiki/search/|
-|Linkedin| https://booleanstrings.com/linkedin-search-operators/ |
+| Linkedin| https://booleanstrings.com/linkedin-search-operators/ |
+| Discord | https://support.discord.com/hc/en-us/articles/115000468588-Using-Search|
 
 <a name="contentanalysis"></a>
 <h3>Content analysis</h3>
