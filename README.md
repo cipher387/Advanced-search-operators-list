@@ -37,7 +37,7 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 <a href="#customersupport">Customer Support</a></br>
 <a href="#news">News/RSS</a></br>
 <a href="#databases">Databases</a></br>
-<a href="#tools">Databases</a></br>
+<a href="#tools">Tools</a></br>
 
 <a name="mailboxes"></a>
 <h1>Mailboxes and Messengers</h1>
