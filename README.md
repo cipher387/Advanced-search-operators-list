@@ -219,13 +219,15 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 | Website/application          | Link        | Description  |
 |------------------|-------------------------|----- |
 | Advangle |  http://advangle.com/ | Advanced search query builder for Google and Bing  |
-
-
-
-
-
-
-
+|Boolean Builder theBalazs |https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=940516593 | Google Sheet for creating Google X-Ray queries for Linkedin search |
+| FileFish | https://cartographia.github.io/FilePhish/ | Simple online Google query builder for fast and easy document file discovery |
+| Overload Search | https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg/related |Chrome Extenstion:Advanced query builder in #Google with the possibilities: change the language and country of your search; disable safe search; disable personalization of search results ("filter bubble") |
+|Twitter Natural Advanced Search |https://chrome.google.com/webstore/detail/twitter-natural-advanced/fkjippcbpjcnjfoohfhaghfelfanamee | Chrome Extenstion: Make your Twitter search field auto detect and perform advanced searches. Just write a natural language like advanced search and press enter to perform it |
+| Natural Advanced Search for Google | https://chrome.google.com/webstore/detail/natural-advanced-search-f/mggcfjiinfepcbnnpgdahepmegpkjihj | Chrome Extenstion: Make your Google search fields auto detect and perform advanced searches. Just write a natural language like advanced search and press (ctrl) + (enter) to perform if it was detected|
+| Advanced Drive Search |https://chrome.google.com/webstore/detail/advanced-drive-search/chomjcpadndbjgkanbaakmjehdoighab |Advanced search for Google Drive Chrome Extenstion |
+|Advanced Search for YouTube | https://chrome.google.com/webstore/detail/advancedsearch-for-youtub/khbccecgpppakomjmdningcbjicdjpak | Chrome extension: AdvancedSearch adds a few more options to the "Filters" menu when searching on YouTube |
+| Natural Advanced Search for GitHub | https://chrome.google.com/webstore/detail/natural-advanced-search-f/mepaacibaogonhhhacklhngfkkhlclfj | Chrome extension: tool uses machine learning to convert what you write into advanced search syntax |
+| Advanced Google Search | https://chrome.google.com/webstore/detail/advanced-google-search/chkcpeigckjajkfbjhdochlkffjdgeee | Chrome extension: advanced search query builder for Google |
 
 Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 
