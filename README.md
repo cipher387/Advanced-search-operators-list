@@ -37,6 +37,7 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 <a href="#customersupport">Customer Support</a></br>
 <a href="#news">News/RSS</a></br>
 <a href="#databases">Databases</a></br>
+<a href="#tools">Databases</a></br>
 
 <a name="mailboxes"></a>
 <h1>Mailboxes and Messengers</h1>
@@ -209,10 +210,21 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 |------------------|-------------------------|
 | Aleph |  https://docs.alephdata.org/guide/search/advanced-search-methods | 
 
-------------------------------------
 
 
- <hr>
+
+<a name="tools"></a>
+<h1>Tools for working with advanced search operators</h1>
+
+| Website/application          | Link        | Description  |
+|------------------|-------------------------|----- |
+| Advangle |  http://advangle.com/ | Advanced search query builder for Google and Bing  |
+
+
+
+
+
+
 
 
 Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
