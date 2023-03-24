@@ -217,7 +217,7 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 <h1>Tools for working with advanced search operators</h1>
 
 | Website/application          | Link        | Description  |
-||||
+|-|-|-|
 | Advangle |  http://advangle.com/ | Advanced search query builder for Google and Bing  |
 |Boolean Builder theBalazs |https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=940516593 | Google Sheet for creating Google X-Ray queries for Linkedin search |
 | FileFish | https://cartographia.github.io/FilePhish/ | Simple online Google query builder for fast and easy document file discovery |
