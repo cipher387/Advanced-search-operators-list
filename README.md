@@ -15,7 +15,7 @@
 </div>
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
 
 <h1>Table of contents</h1>
 
@@ -230,5 +230,4 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 | Natural Advanced Search for GitHub | https://chrome.google.com/webstore/detail/natural-advanced-search-f/mepaacibaogonhhhacklhngfkkhlclfj | Chrome extension: tool uses machine learning to convert what you write into advanced search syntax |
 | Advanced Google Search | https://chrome.google.com/webstore/detail/advanced-google-search/chkcpeigckjajkfbjhdochlkffjdgeee | Chrome extension: advanced search query builder for Google |
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
-
+Thank you for following me! https://cybdetective.com
