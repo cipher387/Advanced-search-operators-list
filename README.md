@@ -88,7 +88,7 @@ Thank you for following me! https://cybdetective.com
 | Ask | https://askhelp.extension.org/advanced-search-options/ | 
 | Naver | http://seoseminkorea.blogspot.com/2015/03/naver-seo-naver-advanced-operators-list-2015.html | 
 | AOL | https://help.aol.co.uk/articles/Advanced-Search | 
-| Startpgage | https://support.startpage.com/hc/en-us/articles/4521473758228-How-to-use-search-operators-Advanced-Search-  |
+| StartPage | https://support.startpage.com/hc/en-us/articles/4521473758228-How-to-use-search-operators-Advanced-Search-  |
 
 
 
