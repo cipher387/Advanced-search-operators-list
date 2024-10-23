@@ -97,7 +97,7 @@ Thank you for following me! https://cybdetective.com
 
 | Website/application          | Link        | 
 |------------------|-------------------------|
-| Twitter | https://www.tweetbinder.com/blog/twitter-advanced-search/ |
+| X | https://www.tweetbinder.com/blog/twitter-advanced-search/ |
 | YouTube | https://seosly.com/youtube-search-operators/|
 | Reddit| https://www.reddit.com/wiki/search/|
 | Linkedin| https://booleanstrings.com/linkedin-search-operators/ |
@@ -109,6 +109,11 @@ Thank you for following me! https://cybdetective.com
 | Website/application          | Link        | 
 |------------------|-------------------------|
 |BuzzSumo | http://help.buzzsumo.com/en/articles/1633294-web-content-analyzer-advanced-search-operators |
+| Serpstat | https://serpstat.com/tools/ |
+| Ahrefs Content Explorer | https://ahrefs.com/content-explorer |
+| Social Animal | https://socialanimal.io/ |
+| ContentStudio | https://contentstudio.io/ |
+| Alltop | https://alltop.com/ |
 
 <a name="coding"></a>
 <h1>Coding</h1>
@@ -126,6 +131,11 @@ Thank you for following me! https://cybdetective.com
 | Website/application          | Link          | 
 |------------------|-------------------------|
 |Stack Overflow Jobs| https://stackoverflow.com/help/advanced-search-parameters-jobs|
+| Indeed Advanced Job Search | https://www.indeed.com/advanced_search |
+| LinkedIn Jobs | https://www.linkedin.com/jobs/ |
+| Glassdoor Jobs | https://www.glassdoor.com/blog/how-to-use-glassdoors-job-search-tools/ |
+| ZipRecruiter | https://www.ziprecruiter.com/ |
+| AngelList Jobs | https://angel.co/jobs |
 
 <a name="productivity"></a>
 <h1>Productivity and project management</h1>
@@ -145,10 +155,11 @@ Thank you for following me! https://cybdetective.com
 | Website/application          | Link          | 
 |------------------|-------------------------|
 | TeamPasswordManager | https://teampasswordmanager.com/docs/advanced-search/ |
-
-
-
-
+| LastPass | https://support.lastpass.com/help/advanced-search-options-in-vault |
+| 1Password | https://support.1password.com/advanced-search/ |
+| Dashlane | https://support.dashlane.com/hc/en-us/articles/209143865-How-to-use-Advanced-Search |
+| Keeper | https://docs.keepersecurity.com/user-guide/search-and-reports.html |
+| Bitwarden | https://bitwarden.com/help/search-your-vault/ |
 
 <a name="iotsearch"></a>
 <h1>IOT search engines</h1>
@@ -210,9 +221,11 @@ Thank you for following me! https://cybdetective.com
 | Website/application          | Link        | 
 |------------------|-------------------------|
 | Aleph |  https://docs.alephdata.org/guide/search/advanced-search-methods | 
-
-
-
+| OpenRefine | https://docs.openrefine.org/manual/searching |
+| Kibana | https://www.elastic.co/guide/en/kibana/current/advanced-search.html |
+| Elasticsearch | https://www.elastic.co/guide/en/elasticsearch/reference/current/search.html |
+| Splunk | https://docs.splunk.com/Documentation/Splunk/latest/Search/Advancedsearch |
+| Neo4j | https://neo4j.com/docs/cypher-manual/current/introduction/advanced-search/ |
 
 <a name="tools"></a>
 <h1>Tools for working with advanced search operators</h1>
