@@ -102,6 +102,8 @@ Thank you for following me! https://cybdetective.com
 | Reddit| https://www.reddit.com/wiki/search/|
 | Linkedin| https://booleanstrings.com/linkedin-search-operators/ |
 | Discord | https://support.discord.com/hc/en-us/articles/115000468588-Using-Search|
+| BlueSky | https://bsky.social/about/blog/05-31-2024-search |
+| Mastodon | https://lucahammer.com/2024/04/25/mastodon-advanced-search-guide-and-operators |
 
 <a name="contentanalysis"></a>
 <h3>Content analysis</h3>
