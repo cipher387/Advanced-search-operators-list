@@ -231,5 +231,6 @@ Thank you for following me! https://cybdetective.com
 |Advanced Search for YouTube | https://chrome.google.com/webstore/detail/advancedsearch-for-youtub/khbccecgpppakomjmdningcbjicdjpak | Chrome extension: AdvancedSearch adds a few more options to the "Filters" menu when searching on YouTube |
 | Natural Advanced Search for GitHub | https://chrome.google.com/webstore/detail/natural-advanced-search-f/mepaacibaogonhhhacklhngfkkhlclfj | Chrome extension: tool uses machine learning to convert what you write into advanced search syntax |
 | Advanced Google Search | https://chrome.google.com/webstore/detail/advanced-google-search/chkcpeigckjajkfbjhdochlkffjdgeee | Chrome extension: advanced search query builder for Google |
+| YouTube Advanced Search | https://playlists.at/youtube/search/ | Online tool: advanced search query builder for YouTube |
 
 Thank you for following me! https://cybdetective.com
