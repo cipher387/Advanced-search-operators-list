@@ -121,6 +121,7 @@ Thank you for following me! https://cybdetective.com
 |Gitlab| https://docs.gitlab.com/ee/user/search/advanced_search.html |
 |Bitbucket |https://confluence.atlassian.com/bitbucketserver/bitbucket-search-syntax-814204781.html |
 |Github Gist| https://gist.github.com/santisbon/2e1e9c69b58bdf4c9624219a44d40d83|
+|Stackoverflow| https://stackoverflow.com/help/searching |
 
 <a name="jobs"></a>
 <h1>Job searching</h1>
